@@ -1,0 +1,10 @@
+http://localhost:8000/weight_loss
+http://localhost:8000/weight_gain
+http://localhost:8000/healthy
+
+{
+  "age": 30,
+  "veg_nonveg": 1,
+  "weight": 70,
+  "height": 170
+}

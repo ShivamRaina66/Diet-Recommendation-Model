@@ -1,0 +1,15 @@
+fastapi
+pydantic
+os
+psutil
+time
+subprocess
+fnmatch
+pandas
+numpy
+seaborn
+matplotlib
+tkinter
+PIL
+tkinter
+scikit-learn
